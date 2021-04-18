@@ -1,1 +1,5 @@
 The original work is on colab
+The dataset is imported from zindi
+stop words were added manually
+Deep learning approach was used
+Perfromance on test set : 80%
